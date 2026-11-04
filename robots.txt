@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://newark.lemurianstudios.com/sitemap.xml
